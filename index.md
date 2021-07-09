@@ -1,5 +1,5 @@
 ﻿# Hand Wash Timer
- hand wash timer not cat laser!  
+ hand wash timer not cat laser!    
  
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
