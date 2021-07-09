@@ -1,4 +1,4 @@
-﻿# Cat Laser
+﻿# uwuwuwuwuuww
  A auto cat laser turrent that moves around the room for a cat, which is controlled by a analog joystick.    
 This was my first project to introduce myself to electrical engineering, and after these three weeks I learned how to solder and use the arduino. This project was enjoyable for me (and my cat) and made me want to further explore engineering.   
 | **Engineer: Michael Xu  | School: Lynbrook HS** | **Area of Interest: Electrical Enginnering** | **Grade: Incoming Junior** |
