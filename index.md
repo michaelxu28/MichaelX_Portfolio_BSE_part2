@@ -1,6 +1,8 @@
 ﻿# Hand Wash Timer
- hand wash timer not cat laser!
-| **Engineer: Michael Xu  | School: Lynbrook HS** | **Area of Interest: Electrical Enginnering** | **Grade: Incoming Junior** |
+ hand wash timer not cat laser!  
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
+| Michael Xu | Lynbrook HS | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://cdn.discordapp.com/attachments/762764107191156779/860617834366238780/image0.jpg)
   
