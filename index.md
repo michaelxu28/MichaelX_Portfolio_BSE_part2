@@ -5,6 +5,8 @@
 |:--:|:--:|:--:|:--:|
 | Michael Xu | Lynbrook HS | Electrical Engineering | Incoming Junior
 
+not the actual project   
+
 ![Headstone Image](https://www.webstaurantstore.com/images/products/extra_large/569254/2102974.jpg)
   
 # Demo Video:
