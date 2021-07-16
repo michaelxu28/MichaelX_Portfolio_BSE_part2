@@ -29,3 +29,7 @@ My second milestone
   
 My first milestone was getting the ultrasonic sensor to work and track distance in cm. The ultrasonic sensor sends out a sound wave and calculates the distance it takes for the sound wave to travel and reflect back. Whenever the distance is less than 30 cm, it turns on a led and sends a message to the serial output. This allows me to turn on my 20 second timer every time I wave my hand around the sensor. Instead of putting the timer on the serial, I put it on a LCD display. 
 [![First Milestone](https://github.com/michaelxu28/MichaelX_Portfolio_BSE_part2/blob/main/Screen%20Shot%202021-07-16%20at%201.42.58%20PM.png)](https://youtu.be/UzFh56dkveo "First Milestone"){:target="_blank" rel="noopener"}
+
+## Circuit (1st milestone)
+
+![Headstone Image](https://github.com/michaelxu28/MichaelX_Portfolio_BSE_part2/blob/main/Screen%20Shot%202021-07-16%20at%202.00.51%20PM.png)
