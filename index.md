@@ -5,7 +5,7 @@
 |:--:|:--:|:--:|:--:|
 | Michael Xu | Lynbrook HS | Electrical Engineering | Incoming Junior
 
-![Headstone Image](https://cdn.discordapp.com/attachments/762764107191156779/860617834366238780/image0.jpg)
+![Headstone Image](https://www.webstaurantstore.com/images/products/extra_large/569254/2102974.jpg)
   
 # Demo Video:
 [![Demo Video](https://cdn.discordapp.com/attachments/501260125731028994/862438682706313256/Screen_Shot_2021-07-07_at_2.03.13_PM.png )](https://www.youtube.com/watch?v=AGEDjoDWGVE "Demo Night Video"){:target="_blank" rel="noopener"}
