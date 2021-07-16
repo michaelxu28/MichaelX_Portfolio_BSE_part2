@@ -1,5 +1,5 @@
 ﻿# Hand Wash Timer
- hand wash timer not cat laser!    
+ This project is a hand wash timer that counts to twenty seconds every time you wash your hands. It uses a ultrasonic sensor to detect movement 30 cm away to start the timer. The timer is displayed on a OLED display. The project also includes a LCD display which shows the current time and date, and a speaker that plays audio to encourage sufficient hand scrubbing. I will also maybe include a temperature sensor but no promises. 
  
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
