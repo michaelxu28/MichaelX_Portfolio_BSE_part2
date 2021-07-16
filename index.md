@@ -5,7 +5,6 @@
 |:--:|:--:|:--:|:--:|
 | Michael Xu | Lynbrook HS | Electrical Engineering | Incoming Junior
 
-```not the actual project   ```
 
 ![Headstone Image](https://www.webstaurantstore.com/images/products/extra_large/569254/2102974.jpg)
   
@@ -22,19 +21,11 @@ my final milestone was soldering the wires to a perfboard. The arduino only has 
 # Second Milestone
 my second milestone was finishing a working cat laser turrent. One servo is connected to the arm of the second, and the laser is mounted on the arm of the top servo. When the button is pressed, two servos move in random directions and the laser turns on. The bottom servo allows the laser to move left and right while the top servo moves it up and down.  
   
-picture of the circuit: (pretend the led is a laser)
-![Citcuit Picture](https://cdn.discordapp.com/attachments/768950025471918110/858089600447021066/Screen_Shot_2021-06-25_at_1.59.19_PM.png)
-  
-    
       
-        
-          
             
             
 [![Second](https://cdn.discordapp.com/attachments/501260125731028994/862438682706313256/Screen_Shot_2021-07-07_at_2.03.13_PM.png)](https://www.youtube.com/watch?v=328fONESxTU "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
-
-My first milestone was downloading the Auduino IDE and setting up my aurdino to my computer. I then connected a servo to the aurdino and also a button using the breadboard. When the button is pressed, the servo moves from it's default position to a random position. When the button is released it goes back to the default position. I also managed to turn on and off the laser diode and also add additional buttons and servos to my circuit on the breadboard. 
-
+My first milestone was getting the ultrasonic sensor to work and track distance in cm. The ultrasonic sensor sends out a sound wave and calculates the distance it takes for the sound wave to travel and reflect back. Whenever the distance is less than 30 cm, it turns on a led and sends a message to the serial output. This allows me to turn on my 20 second timer every time I wave my hand around the sensor. Instead of putting the timer on the serial, I put it on a LCD display. 
 [![First Milestone](https://cdn.discordapp.com/attachments/501260125731028994/862438682706313256/Screen_Shot_2021-07-07_at_2.03.13_PM.png)](https://youtu.be/UzFh56dkveo "First Milestone"){:target="_blank" rel="noopener"}
