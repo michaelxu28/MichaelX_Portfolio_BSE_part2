@@ -3,13 +3,12 @@
  
 Resources:
 ------
-[Hand Wash Timer](https://create.arduino.cc/projecthub/the-tech-lab/fight-coronavirus-simple-handwash-timer-4dc8ac).  
-
-[Ultrasonic sensor](https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/).  
-[LCD display](https://www.instructables.com/Arduino-Interfacing-With-LCD-Without-Potentiometer/). 
-[RTC](https://howtomechatronics.com/tutorials/arduino/arduino-ds3231-real-time-clock-tutorial/). 
-[OLED display](https://create.arduino.cc/projecthub/infoelectorials/project-011-arduino-1-3-i2c-white-oled-display-project-a547d4).  
-[Speaker and SD card](https://www.c-sharpcorner.com/article/audio-play-using-sd-card-module-and-arduino/).  
+[Hand Wash Timer](https://create.arduino.cc/projecthub/the-tech-lab/fight-coronavirus-simple-handwash-timer-4dc8ac)  
+[Ultrasonic sensor](https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/)   
+[LCD display](https://www.instructables.com/Arduino-Interfacing-With-LCD-Without-Potentiometer/)  
+[RTC](https://howtomechatronics.com/tutorials/arduino/arduino-ds3231-real-time-clock-tutorial/)  
+[OLED display](https://create.arduino.cc/projecthub/infoelectorials/project-011-arduino-1-3-i2c-white-oled-display-project-a547d4)   
+[Speaker and SD card](https://www.c-sharpcorner.com/article/audio-play-using-sd-card-module-and-arduino/)  
  
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
