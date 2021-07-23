@@ -22,7 +22,8 @@ Resources:
 
   
 # Demo Video: 
-[![Demo Video](https://cdn.discordapp.com/attachments/501260125731028994/862438682706313256/Screen_Shot_2021-07-07_at_2.03.13_PM.png )](https://www.youtube.com/watch?v=AGEDjoDWGVE "Demo Night Video"){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/di3Q15H7nLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Code:
 ```cpp
@@ -217,7 +218,8 @@ void draw2(int pos){
 # Final Milestone
 My last milestone was adding a speaker and SD card module to my project. The SD card module reads an SD card, which contains audio files, to the arduino and allows the speaker to play these files. The files have to be in wav format (PCM unsigned 8 bit 16k hz) and are played through the speaker with a transistor acting as a amplifier. The amplifier increases the speaker signal so it actually plays audible sound. Whenever the hand wash timer starts, the speaker plays a random 20 second audio file I downloaded and plays a alarm at the end. 
 
-[![Final Milestone](https://cdn.discordapp.com/attachments/501260125731028994/862438682706313256/Screen_Shot_2021-07-07_at_2.03.13_PM.png )](https://www.youtube.com/watch?v=ookglHMfglg "Final Milestone"){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ulcna05Ajgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Second Milestone
 My second milestone was first adding scrolling text to my LCD display, which allows me to have more than 16 characters per line. For the first line on the LCD, I put the info for the current date, time, and measured temperature. This data is recieved from the RTC sensor, which keeps track of the time and date and also can measure the temperature. However, the LCD cannot display scrolling text and a timer at the same time, which was why I added a second OLED display for the timer. The OLED can also display image bitmaps, so I took the time to add some threatening text and some pictures of hand washing. 
