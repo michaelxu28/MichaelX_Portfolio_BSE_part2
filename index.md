@@ -1,6 +1,9 @@
 ﻿# Hand Wash Timer
  This project is a hand wash timer that counts to twenty seconds every time you wash your hands. It uses a ultrasonic sensor to detect movement 30 cm away to start the timer. The timer is displayed on a OLED display. The project also includes a LCD display which shows the current time, date, and temperature, and a speaker that plays audio from a SD card to encourage sufficient hand scrubbing. 
  
+#### First session portfolio
+[Cat Laser](https://michaelxu28.github.io/BSE-MichaelX-Portfolio/)  
+ 
 Resources:
 ------
 [Hand Wash Timer](https://create.arduino.cc/projecthub/the-tech-lab/fight-coronavirus-simple-handwash-timer-4dc8ac)  
