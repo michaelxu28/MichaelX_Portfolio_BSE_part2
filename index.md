@@ -29,6 +29,7 @@ My first milestone was getting the ultrasonic sensor to work and track distance 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UzFh56dkveo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ## Circuit (1st milestone)
 
 <img width="1071" alt="Screen Shot 2021-07-16 at 2 00 51 PM" src="https://user-images.githubusercontent.com/71350303/126830853-d9856f7a-f536-41e3-8fd0-1b03d35aabad.png">
