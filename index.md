@@ -1,18 +1,19 @@
 ﻿# Hand Wash Timer
- This project is a hand wash timer that counts to twenty seconds every time you wash your hands. It uses a ultrasonic sensor to detect movement 30 cm away to start the timer. The timer is displayed on a OLED display. The project also includes a LCD display which shows the current time and date, and a speaker that plays audio to encourage sufficient hand scrubbing. I will also maybe include a temperature sensor but no promises. 
+ This project is a hand wash timer that counts to twenty seconds every time you wash your hands. It uses a ultrasonic sensor to detect movement 30 cm away to start the timer. The timer is displayed on a OLED display. The project also includes a LCD display which shows the current time, date, and temperature, and a speaker that plays audio to encourage sufficient hand scrubbing. 
  
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Michael | Lynbrook HS | Electrical Engineering | Incoming Junior
 
 
-![Headstone Image](https://www.webstaurantstore.com/images/products/extra_large/569254/2102974.jpg)
+![image](https://user-images.githubusercontent.com/71350303/126834812-36acd159-99f5-44a2-ac9d-1452128f295c.jpeg)
+
   
-# Demo Video: under consfuritiujcoon
+# Demo Video: 
 [![Demo Video](https://cdn.discordapp.com/attachments/501260125731028994/862438682706313256/Screen_Shot_2021-07-07_at_2.03.13_PM.png )](https://www.youtube.com/watch?v=AGEDjoDWGVE "Demo Night Video"){:target="_blank" rel="noopener"}
 
 # Final Milestone
-under confsuitojn
+My last milestone was adding a speaker and SD card module to my project. The SD card module reads an SD card, which contains audio files, to the arduino and allows the speaker to play these files. The files have to be in wav format (PCM unsigned 8 bit 16k hz) and are played through the speaker with a transistor acting as a amplifier. The amplifier increases the speaker signal so it actually plays audible sound. Whenever the hand wash timer starts, the speaker plays a random 20 second audio file I downloaded and plays a alarm at the end. 
 
 [![Final Milestone](https://cdn.discordapp.com/attachments/501260125731028994/862438682706313256/Screen_Shot_2021-07-07_at_2.03.13_PM.png )](https://www.youtube.com/watch?v=ookglHMfglg "Final Milestone"){:target="_blank" rel="noopener"}
 
