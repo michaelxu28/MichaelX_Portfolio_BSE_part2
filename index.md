@@ -3,7 +3,7 @@
  
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Michael Xu | Lynbrook HS | Electrical Engineering | Incoming Junior
+| Michael | Lynbrook HS | Electrical Engineering | Incoming Junior
 
 
 ![Headstone Image](https://www.webstaurantstore.com/images/products/extra_large/569254/2102974.jpg)
@@ -17,7 +17,7 @@ under confsuitojn
 [![Final Milestone](https://cdn.discordapp.com/attachments/501260125731028994/862438682706313256/Screen_Shot_2021-07-07_at_2.03.13_PM.png )](https://www.youtube.com/watch?v=ookglHMfglg "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone is udner consturjcntin
+My second milestone was first adding scrolling text to my LCD display, which allows me to have more than 16 characters per line. For the first line on the LCD, I put the info for the current date, time, and measured temperature. This data is recieved from the RTC sensor, which keeps track of the time and date and also can measure the temperature. However, the LCD cannot display scrolling text and a timer at the same time, which was why I added a second OLED display for the timer. The OLED can also display image bitmaps, so I took the time to add some threatening text and some pictures of hand washing. 
   
       
             
@@ -28,8 +28,7 @@ My second milestone is udner consturjcntin
   
 My first milestone was getting the ultrasonic sensor to work and track distance in cm. The ultrasonic sensor sends out a sound wave and calculates the distance it takes for the sound wave to travel and reflect back. Whenever the distance is less than 30 cm, it turns on a led and sends a message to the serial output. This allows me to turn on my 20 second timer every time I wave my hand around the sensor. Instead of putting the timer on the serial, I put it on a LCD display. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UzFh56dkveo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wI0pApb0Pbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Circuit (1st milestone)
 
