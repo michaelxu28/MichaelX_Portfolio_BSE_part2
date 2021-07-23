@@ -23,7 +23,6 @@ Resources:
 
 # Code:
 ```cpp
-
 #include <LiquidCrystal.h>
 #include <DS3231.h>
 #include "U8glib.h"
@@ -75,20 +74,12 @@ void loop() {
   } while( u8g.nextPage() );
   textpos = textpos + 7;
   
-  
   lcd.setCursor(0, 0);
   
   lcd.print(rtcinfo());
   delay(500);
   
   lcd.scrollDisplayRight(); // scrolls right and for each scroll it keeps track of the og position
-  
-  
-  
-  
-
-  // Clears the trigPin 
-
   digitalWrite(trigPin, LOW);
 
   //code for ultrasonic sensor
